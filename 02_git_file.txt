@@ -1,1 +1,3 @@
 this is the second file for git proj.
+add this line after init commit.
+re-commit this file.
